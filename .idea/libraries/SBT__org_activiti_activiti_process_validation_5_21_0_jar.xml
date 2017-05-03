@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.activiti:activiti-process-validation:5.21.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.activiti/activiti-process-validation/jars/activiti-process-validation-5.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.activiti/activiti-process-validation/srcs/activiti-process-validation-5.21.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

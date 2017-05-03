@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.activiti:activiti-bpmn-converter:5.21.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.activiti/activiti-bpmn-converter/jars/activiti-bpmn-converter-5.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.activiti/activiti-bpmn-converter/srcs/activiti-bpmn-converter-5.21.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

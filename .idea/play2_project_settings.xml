@@ -13,6 +13,7 @@
         <entry key="scalaplay2activitiintegration">
           <value>
             <ProjectSettingsEntry>
+              <option name="sourceDir" value="C:\myprojects\workflow\scala\scala-play2-activiti-integration\app" />
               <option name="confDir" value="C:\myprojects\workflow\scala\scala-play2-activiti-integration\app" />
               <option name="templateImports">
                 <list>

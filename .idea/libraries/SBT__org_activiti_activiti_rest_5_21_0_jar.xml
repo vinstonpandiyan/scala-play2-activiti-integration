@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.activiti:activiti-rest:5.21.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.activiti/activiti-rest/jars/activiti-rest-5.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.activiti/activiti-rest/srcs/activiti-rest-5.21.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
