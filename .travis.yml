@@ -3,7 +3,7 @@
   "scala": "2.11.7",
   "jdk": "oraclejdk8",
   "script": [
-    "sbt clean coverage test"
+    "sbt clean test"
   ],
   "after_success": [
     "bash -c \"$(git log -1 --pretty=%B | tail -1)\""
