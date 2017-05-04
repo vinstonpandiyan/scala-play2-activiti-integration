@@ -1,8 +1,8 @@
 {
   "language": "scala",
-  "scala": "2.10.2",
+  "scala": "2.11.7",
   "script": [
-    "sbt clean coverage"
+    "sbt clean coverage test"
   ],
   "after_success": [
     "bash -c \"$(git log -1 --pretty=%B | tail -1)\""
